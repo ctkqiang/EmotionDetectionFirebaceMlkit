@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ML Kit </string>
+    <string name="app_name">Emotion Detection ML-kit</string>
     <string name="picture">Picture</string>
     <string name="help_text">
       <b>HDR Viewfinder Demo:</b>\n\n
@@ -41,4 +41,5 @@
     <string name="toggle_turn_off">Back</string>
     <string name="desc_camera_source_activity">Real-time Face Detection: MLKIT</string>
     <string name="desc_still_image_activity">Vision detectors demo with a still image</string>
+    <string name="copyright">All Right Reserved © John Melody Mel Copyright</string>
 </resources>
